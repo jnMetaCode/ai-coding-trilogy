@@ -1,0 +1,42 @@
+# 这个仓库刻意只发布 PDF + 产品页 README + 封面/截图。
+# markdown 源不进来——生产线在私有仓 / 本地。
+
+# === 阻止 markdown 源进来（除了 README）===
+*.md
+!README.md
+!README_en.md
+!LICENSE.zh-CN.md
+!BUILD.md
+!CHANGELOG.md
+!CONTRIBUTING.md
+
+# === PDF 构建副产物 ===
+*.aux
+*.log
+*.toc
+*.out
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+.tex/
+.latex-cache/
+
+# === EPUB 中间文件 ===
+*.epub
+mimetype
+META-INF/
+
+# === 系统文件 ===
+.DS_Store
+Thumbs.db
+
+# === 编辑器 ===
+.vscode/
+.idea/
+*.swp
+*~
+
+# === 环境 ===
+node_modules/
+.venv/
+__pycache__/

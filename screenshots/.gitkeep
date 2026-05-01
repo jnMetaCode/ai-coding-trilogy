@@ -1,0 +1,8 @@
+此目录用于放书的内页预览图（截图、章节缩略图、TOC 截图等）。
+
+约定命名：
+  - page-cover.png      封面预览
+  - page-toc.png        目录页
+  - page-ch01.png       第 1 章首页
+  - page-v1-intro.png   卷一序言页
+  - banner.png 等顶层图独立放仓库根目录
