@@ -21,7 +21,7 @@
 | 中文版 | **[下载 PDF](https://github.com/jnMetaCode/ai-coding-trilogy/raw/main/AI-Coding-Trilogy-zh-v1.0.pdf)** | 待生成 |
 | English | **[Download PDF](https://github.com/jnMetaCode/ai-coding-trilogy/raw/main/AI-Coding-Trilogy-en-v1.0.pdf)** | TBD |
 
-> 想在线阅读不下载？[**网页版** →](https://jnmetacode.github.io/ai-coding-guide/)
+> 想在线阅读不下载？[**网页版** →](https://aibuzhiyu.com/)
 
 ---
 
