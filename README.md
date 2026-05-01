@@ -110,13 +110,15 @@
 
 ---
 
-## 👤 关于作者
+## 👤 关于「AI不止语」
 
-**江南 · jnMetaCode** · AI Coding Practitioner
+专注 AI 编程实战的中文内容品牌——把每条结论都对到上游源码，让读者少踩坑。
 
-- 微信公众号：**AI不止语**（`AI_BuZhiYu`）
+- 公众号：**AI不止语**（搜索 `AI_BuZhiYu`）
 - GitHub：[@jnMetaCode](https://github.com/jnMetaCode)
-- 上游教程仓库：[ai-coding-guide](https://github.com/jnMetaCode/ai-coding-guide)（10 工具 / 7 方法论 / 多场景实战脚本）
+- 教程主仓：[ai-coding-guide](https://github.com/jnMetaCode/ai-coding-guide)（10 工具 / 7 方法论 / 实战脚本 / 31 个深度陷阱）
+
+> AI 工具迭代快，二手信息易过期。本品牌内容遵循"每条 CLI flag、配置字段、命令名都对照源码核实"的标准。
 
 ---
 

@@ -108,13 +108,15 @@ For publishing, corporate training, paid courses, or other commercial uses — p
 
 ---
 
-## 👤 About the Author
+## 👤 About 「AI不止语」 (AI Beyond Words)
 
-**Jiangnan · jnMetaCode** · AI Coding Practitioner
+A Chinese content brand focused on AI-coding practice — every claim cross-checked against upstream source so readers don't trip on outdated community advice.
 
-- WeChat Official Account: **AI不止语** (`AI_BuZhiYu`)
+- WeChat Official Account: **AI不止语** (search `AI_BuZhiYu`)
 - GitHub: [@jnMetaCode](https://github.com/jnMetaCode)
-- Upstream tutorial repo: [ai-coding-guide](https://github.com/jnMetaCode/ai-coding-guide) (10 tools / 7 methodologies / multi-scenario real-world scripts)
+- Main tutorial repo: [ai-coding-guide](https://github.com/jnMetaCode/ai-coding-guide) (10 tools / 7 methodologies / scenarios / 31 deep pitfalls)
+
+> AI tools iterate fast — second-hand info goes stale fast too. Our editorial standard: every CLI flag, config field, and command name verified against the source.
 
 ---
 
