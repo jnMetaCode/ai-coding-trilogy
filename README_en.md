@@ -93,17 +93,9 @@ Tools iterate fast — each chapter notes its "verified through" date. This v1.0
 
 ## 📜 License
 
-[**CC BY-NC-SA 4.0**](./LICENSE) — Creative Commons Attribution-NonCommercial-ShareAlike
+Licensed under [**CC BY-NC-SA 4.0**](./LICENSE).
 
-| You can | Required |
-|---------|----------|
-| ✅ Personal reading, learning, research, note-taking | Credit the source |
-| ✅ Excerpt + repost to blog / social platforms | Credit the source |
-| ✅ Derivative work (explainer videos / forked tutorials) | Credit + same license |
-| ❌ Print publishing for profit | Requires permission first |
-| ❌ Bundling into paid courses / paid workshops | Requires permission first |
-| ❌ Use as the primary corporate training material | Requires permission first |
-| ❌ Use as primary deliverable in client work | Requires permission first |
+Free to share and adapt — **credit the source, non-commercial only, share-alike for derivatives**.
 
 ---
 
