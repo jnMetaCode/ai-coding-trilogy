@@ -99,21 +99,12 @@ Free to share and adapt — **credit the source, non-commercial only, share-alik
 
 ---
 
-## 💼 Commercial · Publishing · Corporate Training
+## 💼 Commercial Inquiries
 
-The following warrant a conversation:
-
-- Corporate training (10+ people) / training series
-- Paid courses / bootcamps integrating this content
-- Print or commercial e-book publishing / international translations
-- Speaking engagements / private sessions / annual meetings
-- White-label / internal knowledge base integration
-- AI-coding team consulting (tool selection / workflow design / CI integration)
-
-**Contact:**
+For publishing, corporate training, paid courses, or other commercial uses — please get in touch:
 
 - WeChat Official Account **「AI不止语」** (search `AI_BuZhiYu`) — backstage message with "合作"
-- GitHub Issue (prefix title with `[BUSINESS]`): [open inquiry](https://github.com/jnMetaCode/ai-coding-trilogy/issues/new?title=%5BBUSINESS%5D+)
+- GitHub Issue prefixed with `[BUSINESS]`: [open inquiry](https://github.com/jnMetaCode/ai-coding-trilogy/issues/new?title=%5BBUSINESS%5D+)
 
 ---
 

@@ -101,21 +101,12 @@
 
 ---
 
-## 💼 商业授权 · 出版 · 内训咨询
+## 💼 商业合作
 
-以下场景**必须先沟通**：
-
-- 企业内训（10 人以上）/ 系列课
-- 付费课程 / 训练营整合本书内容
-- 纸书出版 / 海外版翻译
-- 演讲 / 闭门分享 / 公司年会
-- 白标 / 内部知识库整合
-- AI 编程团队咨询（选型 / 工作流设计 / CI 改造）
-
-**联系方式**：
+出版、内训、付费课程等商业用途，请先联系作者：
 
 - 微信公众号 **「AI不止语」**（搜索 `AI_BuZhiYu`）后台留言「合作」
-- GitHub Issue（标题加 `[BUSINESS]` 前缀）：[提交咨询](https://github.com/jnMetaCode/ai-coding-trilogy/issues/new?title=%5BBUSINESS%5D+)
+- GitHub Issue 加 `[BUSINESS]` 前缀：[提交咨询](https://github.com/jnMetaCode/ai-coding-trilogy/issues/new?title=%5BBUSINESS%5D+)
 
 ---
 
