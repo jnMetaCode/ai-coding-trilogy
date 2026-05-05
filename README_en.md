@@ -16,12 +16,12 @@
 
 ## 📥 Download
 
-| Version | PDF | Size |
-|---------|-----|------|
-| 中文版 | **[Download PDF](https://github.com/jnMetaCode/ai-coding-trilogy/raw/main/AI-Coding-Trilogy-zh-v1.0.pdf)** | TBD |
-| English | **[Download PDF](https://github.com/jnMetaCode/ai-coding-trilogy/raw/main/AI-Coding-Trilogy-en-v1.0.pdf)** | TBD |
+| Version | PDF | Size / Pages |
+|---------|-----|--------------|
+| 简体中文 ✅ | **[Download PDF](https://github.com/jnMetaCode/ai-coding-trilogy/raw/main/AI-Coding-Trilogy-zh-v1.0.pdf)** | 9.6 MB · 181 pages |
+| English 📝 | (v2 planned, file an issue to bump priority) | — |
 
-> Prefer reading online? [**Web edition** →](https://aibuzhiyu.com/)
+> Prefer reading online? [**Web edition → aibuzhiyu.com**](https://aibuzhiyu.com/)
 
 ---
 
@@ -87,7 +87,7 @@ Tools change generations; methodology endures. So the book teaches **methodology
 
 Every CLI flag, config field, subcommand, and model name has been verified against upstream source code (the OpenAI Codex CLI chapter went through **6 rounds of source-code verification**). Common community misinformation (`--full-auto`, `bubblewrap`, etc.) is corrected — any rebutted "common knowledge" has a source link attached.
 
-Tools iterate fast — each chapter notes its "verified through" date. This v1.0 is current as of **2026-04-30**.
+Tools iterate fast — each chapter notes its "verified through" date. This v1.0 reflects tool state as of **2026-05**.
 
 ---
 
@@ -122,7 +122,7 @@ A Chinese content brand focused on AI-coding practice — every claim cross-chec
 
 ## 🆕 Version
 
-- **v1.0** — first edition, snapshot of tool state as of 2026-04-30
+- **v1.0** (2026-05) — first edition; snapshot of tool state as of 2026-05
 - AI tools evolve fast — refer to official docs for the latest
 
 ## 📚 Other Books in the Series
@@ -132,7 +132,7 @@ A Chinese content brand focused on AI-coding practice — every claim cross-chec
 | Title | Status |
 |-------|--------|
 | AI Coding Trilogy (this book) | ✅ v1.0 released |
-| Codex CLI Complete Manual | 📝 In progress |
+| Codex CLI Complete Manual | 🗓 Researching |
 | Claude Code Deep Dive | 🗓 Planned |
 | MCP Ecosystem Practical Guide | 🗓 Planned |
 

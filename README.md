@@ -16,12 +16,12 @@
 
 ## 📥 下载
 
-| 版本 | PDF | 大小 |
-|------|-----|------|
-| 中文版 | **[下载 PDF](https://github.com/jnMetaCode/ai-coding-trilogy/raw/main/AI-Coding-Trilogy-zh-v1.0.pdf)** | 待生成 |
-| English | **[Download PDF](https://github.com/jnMetaCode/ai-coding-trilogy/raw/main/AI-Coding-Trilogy-en-v1.0.pdf)** | TBD |
+| 版本 | PDF | 大小 / 页数 |
+|------|-----|------------|
+| 简体中文 ✅ | **[下载 PDF](https://github.com/jnMetaCode/ai-coding-trilogy/raw/main/AI-Coding-Trilogy-zh-v1.0.pdf)** | 9.6 MB · 181 页 |
+| English 📝 | （v2 计划中，欢迎 issue 催更） | — |
 
-> 想在线阅读不下载？[**网页版** →](https://aibuzhiyu.com/)
+> 想在线阅读不下载？[**网页版 → aibuzhiyu.com**](https://aibuzhiyu.com/)
 
 ---
 
@@ -87,7 +87,7 @@
 
 每条 CLI flag、配置字段、子命令、模型名都对照过相应仓库的源码（特别是 OpenAI Codex CLI 那章，**6 轮源码核实**）。社区博客里常见的过期信息（如 `--full-auto`、`bubblewrap` 等）已修正——任何被否决的"常识"都附了源码出处链接。
 
-工具迭代快，每章末尾标注"信息核实截止日期"。本书 v1.0 截止 **2026-04-30**。
+工具迭代快，每章末尾标注"信息核实截止日期"。本书 v1.0 信息截止 **2026-05**。
 
 ---
 
@@ -124,7 +124,7 @@
 
 ## 🆕 版本
 
-- **v1.0** — 首版，对应 2026-04-30 工具状态
+- **v1.0** (2026-05) — 首版，信息核实至 2026-05
 - AI 工具迭代快——具体命令请以官方文档为准
 
 ## 📚 系列其他书
@@ -134,7 +134,7 @@
 | 书名 | 状态 |
 |------|------|
 | AI 编程实战三卷书（本书） | ✅ v1.0 已出 |
-| Codex CLI 完全手册 | 📝 写作中 |
+| Codex CLI 完全手册 | 🗓 调研中 |
 | Claude Code 深度解析 | 🗓 计划中 |
 | MCP 生态实战指南 | 🗓 计划中 |
 
