@@ -25,6 +25,19 @@
 
 ---
 
+## 🌳 配套仓库
+
+| 仓库 | ⭐ | 内容 |
+|------|---|------|
+| 📖 **本仓** ai-coding-trilogy | — | 三卷书 PDF + 在线版 + 勘误 |
+| 🤖 [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | **10.8k** | 215 个即插即用的 AI 专家角色，覆盖 18 个部门 |
+| 🦸 [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | **2.8k** | superpowers（159k ⭐）完整汉化 + 4 个中国原创 skills |
+| 📚 [ai-coding-guide](https://github.com/jnMetaCode/ai-coding-guide) | 191 | 10 款 AI 编程工具实战教程（本书的素材主仓） |
+
+> 工具会换代，方法论永生。三卷书写方法论，配套仓库提供可直接装进 Claude Code / Cursor / Codex 的执行件。
+
+---
+
 ## 📖 这本书讲什么
 
 把 [ai-coding-guide](https://github.com/jnMetaCode/ai-coding-guide) 仓库里的 **10 款主流 AI 编程工具教程 + 7 套通用方法论 + 多个实战脚本**，按读者画像而不是按工具，重组为 **3 卷 + 1 别册** 的渐进式读本。
