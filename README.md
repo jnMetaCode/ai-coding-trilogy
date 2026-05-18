@@ -33,8 +33,10 @@
 | 🤖 [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) | **10.8k** | 215 个即插即用的 AI 专家角色，覆盖 18 个部门 |
 | 🦸 [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) | **2.8k** | superpowers（159k ⭐）完整汉化 + 4 个中国原创 skills |
 | 📚 [ai-coding-guide](https://github.com/jnMetaCode/ai-coding-guide) | 191 | 10 款 AI 编程工具实战教程（本书的素材主仓） |
+| 🎬 🆕 [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) | — | Mx-Shell《丧尸清道夫》5 段式提示词方法论 + 视频生成 Skill（Seedance / 小云雀 / Sora / 可灵 / 即梦通用） |
 
 > 工具会换代，方法论永生。三卷书写方法论，配套仓库提供可直接装进 Claude Code / Cursor / Codex 的执行件。
+> ai-shortfilm-prompts 把这套方法论扩展到 AI 视频创作领域。
 
 ---
 
