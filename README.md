@@ -2,7 +2,7 @@
 
 > **The Complete Guide to AI Coding · 简体中文 · 系列卷一·入门 / 卷二·工作流 / 卷三·架构**
 
-> 📖 **免费配套学习** → [从零学会 AI 编程](https://aiolaola.com/)：180 节免费实操课 + 《AI 编程实战三卷书》在线阅读 + 实战社区 · 永久免费
+> 📖 **免费配套学习** → [从零学会 AI 编程](https://aiolaola.com/?utm_source=github&utm_campaign=trilogy)：180 节免费实操课 + 《AI 编程实战三卷书》在线阅读 + 实战社区 · 永久免费
 
 [English](./README_en.md) · 简体中文
 
