@@ -5,6 +5,8 @@
 
 <!-- aiolaola:start -->
 > 📖 **Free companion courses (English)** · [Learn AI Coding](https://aiolaola.com/en?utm_source=github&utm_campaign=trilogy) (180 lessons) + [Build AI Agents](https://aiolaola.com/en/course/agents?utm_source=github&utm_campaign=trilogy) (40 lessons) — hands-on, free · also in [日本語](https://aiolaola.com/ja?utm_source=github&utm_campaign=trilogy) / [Español](https://aiolaola.com/es?utm_source=github&utm_campaign=trilogy) / [한국어](https://aiolaola.com/ko?utm_source=github&utm_campaign=trilogy)
+>
+> 🌟 **Sister projects**: [agency-orchestrator ⭐1.9k](https://github.com/jnMetaCode/agency-orchestrator) · [agency-agents-zh ⭐18.2k](https://github.com/jnMetaCode/agency-agents-zh) · [superpowers-zh ⭐7.2k](https://github.com/jnMetaCode/superpowers-zh) · [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) · [ai-coding-guide ⭐463](https://github.com/jnMetaCode/ai-coding-guide)
 <!-- aiolaola:end -->
 
 > **The Complete Guide to AI Coding · English · Volume I Getting Started / II Workflows / III Architecture**
