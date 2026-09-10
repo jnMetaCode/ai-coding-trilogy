@@ -2,7 +2,7 @@
 
 > **The Complete Guide to AI Coding · 简体中文 · 系列卷一·入门 / 卷二·工作流 / 卷三·架构**
 
-> 📖 **免费配套学习** → [从零学会 AI 编程](https://aiolaola.com/?utm_source=github&utm_campaign=trilogy)（180 节）＋ [从零构建 AI 智能体](https://aiolaola.com/course/ai-agent?utm_source=github&utm_campaign=trilogy)（40 节）：两门免费实操课 + 实战社区
+> 📖 **免费配套学习** → [从零学会 AI 编程](https://aiolaola.com/?utm_source=github&utm_campaign=trilogy)（182 节）＋ [从零构建 AI 智能体](https://aiolaola.com/course/ai-agent?utm_source=github&utm_campaign=trilogy)（40 节）：两门免费实操课 + 实战社区（站上共 13 门课、648 节，**全部 ¥0**——另有 AI 绘画 / 写小说 / 漫剧 / 量化 / DeepSeek / 深度专注 等）
 > 🌍 Also in [English](https://aiolaola.com/en?utm_source=github&utm_campaign=trilogy) · [日本語](https://aiolaola.com/ja?utm_source=github&utm_campaign=trilogy) · [Español](https://aiolaola.com/es?utm_source=github&utm_campaign=trilogy) · [한국어](https://aiolaola.com/ko?utm_source=github&utm_campaign=trilogy) · [繁體中文](https://aiolaola.com/zh-Hant?utm_source=github&utm_campaign=trilogy)
 
 [English](./README_en.md) · 简体中文
