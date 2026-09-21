@@ -6,7 +6,7 @@
 <!-- aiolaola:start -->
 > 📖 **Free companion courses (English)** · [Learn AI Coding](https://aiolaola.com/en?utm_source=github&utm_campaign=trilogy) (182 lessons) + [Build AI Agents](https://aiolaola.com/en/course/agents?utm_source=github&utm_campaign=trilogy) (40 lessons) — hands-on, free · also in [日本語](https://aiolaola.com/ja?utm_source=github&utm_campaign=trilogy) / [Español](https://aiolaola.com/es?utm_source=github&utm_campaign=trilogy) / [한국어](https://aiolaola.com/ko?utm_source=github&utm_campaign=trilogy) · 13 courses / 648 lessons in total, **all free**
 >
-> 🌟 **Sister projects**: [agency-agents-zh ⭐20.6k](https://github.com/jnMetaCode/agency-agents-zh) · [superpowers-zh ⭐8k](https://github.com/jnMetaCode/superpowers-zh) · [agency-orchestrator ⭐2.2k](https://github.com/jnMetaCode/agency-orchestrator) · [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) · [ai-coding-guide ⭐523](https://github.com/jnMetaCode/ai-coding-guide) · [openshorts](https://github.com/jnMetaCode/openshorts)
+> 🌟 **Sister projects**: [agency-agents-zh ⭐20.8k](https://github.com/jnMetaCode/agency-agents-zh) · [superpowers-zh ⭐8.1k](https://github.com/jnMetaCode/superpowers-zh) · [agency-orchestrator ⭐2.2k](https://github.com/jnMetaCode/agency-orchestrator) · [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) · [ai-coding-guide ⭐532](https://github.com/jnMetaCode/ai-coding-guide) · [openshorts](https://github.com/jnMetaCode/openshorts)
 <!-- aiolaola:end -->
 
 > **The Complete Guide to AI Coding · English · Volume I Getting Started / II Workflows / III Architecture**
